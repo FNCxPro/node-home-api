@@ -1,0 +1,7 @@
+{
+  "name": "google-home-api",
+  "version": "0.1.0",
+  "description": "Google Home API wrapper for node",
+  "main": "index.js",
+  "license": "MIT"
+}
